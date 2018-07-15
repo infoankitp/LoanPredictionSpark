@@ -24,7 +24,7 @@ For visual analysis of data, I have used Zeppelin. With Spark-SQL commands in ze
 1. People with Credit History and Higher Income would be having more chances of Loan Approval.
 2. People with lower EMIs would be more likely to repay the loan and hence should be approved loan easily. 
 3. People with businesses are more likely to be approved loan. 
-4. People with 
+4. People with higher age are more likely to be approved loan. 
 
 ###### Data Cleaning
 Cleaned data and imputed the missing values in the data. 
