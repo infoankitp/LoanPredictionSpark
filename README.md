@@ -21,7 +21,7 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-ii
 For visual analysis of data, I have used Zeppelin. With Spark-SQL commands in zeppelin you can plot data with SQL Statements.
 
 ###### Hypothesis
-1. People with Credit History and Higher Income would be having more chances of Loan Approval.
+1. People with Credit History and Higher Income will have more chances of Loan Approval.
 2. People with lower EMIs would be more likely to repay the loan and hence should be approved loan easily. 
 3. People with businesses are more likely to be approved loan. 
 4. People with higher age are more likely to be approved loan. 
